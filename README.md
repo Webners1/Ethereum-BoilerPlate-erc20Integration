@@ -1,6 +1,4 @@
-<p align="center">
-  <img alt="OMG Counters" src="https://i.imgur.com/XHOSEvl.png" width="440">
-</p>
+
 
 <p align="center">
 A boilerplate for Ethereum frontend dapp development. made by   Muzammil Siddiqui
